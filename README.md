@@ -6,6 +6,9 @@ then run
 
 ### `npm start`
 
+
+And here is some extra info ......
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
